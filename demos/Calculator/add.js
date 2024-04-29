@@ -7,4 +7,10 @@ function add() {
   console.log(result);
 }
 
-add()
+// add()
+
+function init() {
+  console.log("Hello");
+}
+
+init()
